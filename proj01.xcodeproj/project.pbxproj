@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		50E8B5581886037100130704 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 50E8B5571886037100130704 /* main.cpp */; };
+		2052BFEB1886F3B10073B592 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2052BFEA1886F3B10073B592 /* main.cpp */; };
 		50E8B55A1886037100130704 /* proj01.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 50E8B5591886037100130704 /* proj01.1 */; };
 /* End PBXBuildFile section */
 
@@ -25,8 +25,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		2052BFEA1886F3B10073B592 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = main.cpp; path = "../../Google Drive/school/CSE 335/main.cpp"; sourceTree = "<group>"; };
 		50E8B5541886037100130704 /* proj01 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = proj01; sourceTree = BUILT_PRODUCTS_DIR; };
-		50E8B5571886037100130704 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		50E8B5591886037100130704 /* proj01.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = proj01.1; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -60,7 +60,7 @@
 		50E8B5561886037100130704 /* proj01 */ = {
 			isa = PBXGroup;
 			children = (
-				50E8B5571886037100130704 /* main.cpp */,
+				2052BFEA1886F3B10073B592 /* main.cpp */,
 				50E8B5591886037100130704 /* proj01.1 */,
 			);
 			path = proj01;
@@ -117,7 +117,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				50E8B5581886037100130704 /* main.cpp in Sources */,
+				2052BFEB1886F3B10073B592 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -225,6 +225,7 @@
 				50E8B55F1886037100130704 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
