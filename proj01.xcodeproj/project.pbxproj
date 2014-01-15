@@ -26,6 +26,7 @@
 
 /* Begin PBXFileReference section */
 		2052BFEA1886F3B10073B592 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = main.cpp; path = "../../Google Drive/school/CSE 335/main.cpp"; sourceTree = "<group>"; };
+		2052BFEC1886F5C10073B592 /* student.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = student.h; sourceTree = "<group>"; };
 		50E8B5541886037100130704 /* proj01 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = proj01; sourceTree = BUILT_PRODUCTS_DIR; };
 		50E8B5591886037100130704 /* proj01.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = proj01.1; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -61,6 +62,7 @@
 			isa = PBXGroup;
 			children = (
 				2052BFEA1886F3B10073B592 /* main.cpp */,
+				2052BFEC1886F5C10073B592 /* student.h */,
 				50E8B5591886037100130704 /* proj01.1 */,
 			);
 			path = proj01;
