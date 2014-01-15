@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2052BFEB1886F3B10073B592 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2052BFEA1886F3B10073B592 /* main.cpp */; };
 		50E8B55A1886037100130704 /* proj01.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 50E8B5591886037100130704 /* proj01.1 */; };
+		50F3A8BE1886F7A800D9865A /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 50F3A8BD1886F7A800D9865A /* main.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,10 +25,10 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		2052BFEA1886F3B10073B592 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = main.cpp; path = "../../Google Drive/school/CSE 335/main.cpp"; sourceTree = "<group>"; };
 		2052BFEC1886F5C10073B592 /* student.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = student.h; sourceTree = "<group>"; };
 		50E8B5541886037100130704 /* proj01 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = proj01; sourceTree = BUILT_PRODUCTS_DIR; };
 		50E8B5591886037100130704 /* proj01.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = proj01.1; sourceTree = "<group>"; };
+		50F3A8BD1886F7A800D9865A /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,7 +61,7 @@
 		50E8B5561886037100130704 /* proj01 */ = {
 			isa = PBXGroup;
 			children = (
-				2052BFEA1886F3B10073B592 /* main.cpp */,
+				50F3A8BD1886F7A800D9865A /* main.cpp */,
 				2052BFEC1886F5C10073B592 /* student.h */,
 				50E8B5591886037100130704 /* proj01.1 */,
 			);
@@ -119,7 +119,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2052BFEB1886F3B10073B592 /* main.cpp in Sources */,
+				50F3A8BE1886F7A800D9865A /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
